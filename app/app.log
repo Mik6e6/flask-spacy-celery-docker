@@ -1,0 +1,137 @@
+2020-02-11 02:44:56,118:ERROR:the file yaleB02_P00A-020E+10.pgm has wrong extention
+2020-02-11 02:45:30,702:INFO:the file g29513.png has been successfully saved as dd2d6f2c-09d5-4fc5-884d-cd84f66fc4fd.png
+2020-02-11 02:45:30,848:INFO:dd2d6f2c-09d5-4fc5-884d-cd84f66fc4fd.png is processing : colors_number=6
+2020-02-11 02:45:31,798:INFO:processing dd2d6f2c-09d5-4fc5-884d-cd84f66fc4fd.png is completed : ['#f7a751', '#1e2afd', '#766fe0', '#050733', '#c2c5ff', '#fdfdff']
+2020-02-11 02:50:19,449:INFO:dd2d6f2c-09d5-4fc5-884d-cd84f66fc4fd.png is processing : colors_number=6
+2020-02-11 02:50:20,531:INFO:processing dd2d6f2c-09d5-4fc5-884d-cd84f66fc4fd.png is completed : ['#f7a751', '#1e2afd', '#766fe0', '#050733', '#c2c5ff', '#fdfdff']
+2020-02-11 02:51:03,143:INFO:dd2d6f2c-09d5-4fc5-884d-cd84f66fc4fd.png is processing : colors_number=6
+2020-02-11 02:51:04,602:INFO:processing dd2d6f2c-09d5-4fc5-884d-cd84f66fc4fd.png is completed : ['#f7a751', '#1e2afd', '#766fe0', '#050733', '#c2c5ff', '#fdfdff']
+2020-02-11 02:51:29,198:INFO:dd2d6f2c-09d5-4fc5-884d-cd84f66fc4fd.png is processing : colors_number=6
+2020-02-11 02:51:30,380:INFO:processing dd2d6f2c-09d5-4fc5-884d-cd84f66fc4fd.png is completed : ['#f7a751', '#1e2afd', '#766fe0', '#050733', '#c2c5ff', '#fdfdff']
+2020-02-11 02:52:08,332:INFO:the file g29483.png has been successfully saved as 54bdcde3-966e-4e7b-aa4d-8a8f60f979ec.png
+2020-02-11 02:52:08,357:INFO:54bdcde3-966e-4e7b-aa4d-8a8f60f979ec.png is processing : colors_number=6
+2020-02-11 02:52:09,441:INFO:processing 54bdcde3-966e-4e7b-aa4d-8a8f60f979ec.png is completed : ['#f2a152', '#050733', '#acacff', '#1d25fe', '#625ef7', '#fdfdff']
+2020-02-11 02:52:25,095:INFO:54bdcde3-966e-4e7b-aa4d-8a8f60f979ec.png is processing : colors_number=6
+2020-02-11 02:52:26,365:INFO:processing 54bdcde3-966e-4e7b-aa4d-8a8f60f979ec.png is completed : ['#f2a152', '#050733', '#acacff', '#1d25fe', '#625ef7', '#fdfdff']
+2020-02-11 02:52:40,982:INFO:the file g29513.png has been successfully saved as 689beb2e-07d0-4c2f-8050-af49055a49ba.png
+2020-02-11 02:52:41,011:INFO:689beb2e-07d0-4c2f-8050-af49055a49ba.png is processing : colors_number=6
+2020-02-11 02:52:41,968:INFO:processing 689beb2e-07d0-4c2f-8050-af49055a49ba.png is completed : ['#f7a751', '#050733', '#fdfdff', '#1e2afd', '#766fe0', '#c2c5ff']
+2020-02-11 02:52:50,860:INFO:689beb2e-07d0-4c2f-8050-af49055a49ba.png is processing : colors_number=6
+2020-02-11 02:52:51,820:INFO:processing 689beb2e-07d0-4c2f-8050-af49055a49ba.png is completed : ['#f7a751', '#050733', '#fdfdff', '#1e2afd', '#766fe0', '#c2c5ff']
+2020-02-11 02:53:03,832:INFO:689beb2e-07d0-4c2f-8050-af49055a49ba.png is processing : colors_number=6
+2020-02-11 02:53:04,788:INFO:processing 689beb2e-07d0-4c2f-8050-af49055a49ba.png is completed : ['#f7a751', '#1e2afd', '#766fe0', '#050733', '#fdfdff', '#c2c5ff']
+2020-02-11 02:53:14,692:INFO:the file g29513.png has been successfully saved as ae823076-a306-4301-8b9d-ab70acff7732.png
+2020-02-11 02:53:14,703:INFO:ae823076-a306-4301-8b9d-ab70acff7732.png is processing : colors_number=6
+2020-02-11 02:53:15,067:INFO:the file g29513.png has been successfully saved as b4f2fad6-5123-49ec-8c42-8fce43241fdd.png
+2020-02-11 02:53:15,104:INFO:b4f2fad6-5123-49ec-8c42-8fce43241fdd.png is processing : colors_number=6
+2020-02-11 02:53:16,031:INFO:processing ae823076-a306-4301-8b9d-ab70acff7732.png is completed : ['#f7a751', '#1e2afd', '#766fe0', '#050733', '#fdfdff', '#c2c5ff']
+2020-02-11 02:53:16,272:INFO:processing b4f2fad6-5123-49ec-8c42-8fce43241fdd.png is completed : ['#f7a751', '#1e2afd', '#766fe0', '#050733', '#fdfdff', '#c2c5ff']
+2020-02-11 02:53:23,481:INFO:the file g29513.png has been successfully saved as dc331da6-8893-4d41-86df-de327a16c72a.png
+2020-02-11 02:53:23,502:INFO:dc331da6-8893-4d41-86df-de327a16c72a.png is processing : colors_number=6
+2020-02-11 02:53:24,477:INFO:processing dc331da6-8893-4d41-86df-de327a16c72a.png is completed : ['#f7a751', '#1e2afd', '#766fe0', '#050733', '#fdfdff', '#c2c5ff']
+2020-02-11 02:53:36,423:INFO:the file 110288_071_l_WR.jpg has been successfully saved as 24dcb729-fc13-413c-a5b5-a8e922cb7612.jpg
+2020-02-11 02:53:36,452:INFO:24dcb729-fc13-413c-a5b5-a8e922cb7612.jpg is processing : colors_number=6
+2020-02-11 02:53:37,353:INFO:processing 24dcb729-fc13-413c-a5b5-a8e922cb7612.jpg is completed : ['#f1f1f1', '#2c2c2c', '#7c7c7c', '#1e1e1e', '#b6b6b6', '#434343']
+2020-02-11 02:53:45,807:INFO:the file g29483.png has been successfully saved as 66a99b19-9972-4452-abe7-d79d75d6c73c.png
+2020-02-11 02:53:45,847:INFO:66a99b19-9972-4452-abe7-d79d75d6c73c.png is processing : colors_number=6
+2020-02-11 02:53:46,984:INFO:processing 66a99b19-9972-4452-abe7-d79d75d6c73c.png is completed : ['#f2a152', '#1d25fe', '#050733', '#acacff', '#fdfdff', '#625ef7']
+2020-02-11 02:55:21,314:INFO:66a99b19-9972-4452-abe7-d79d75d6c73c.png is processing : colors_number=6
+2020-02-11 02:55:22,228:INFO:processing 66a99b19-9972-4452-abe7-d79d75d6c73c.png is completed : ['#f2a152', '#1d25fe', '#050733', '#acacff', '#fdfdff', '#625ef7']
+2020-02-11 02:55:26,784:INFO:the file 110288_071_l_WR.jpg has been successfully saved as 952230ab-f6bb-4c84-b39d-273f7bbbd55c.jpg
+2020-02-11 02:55:26,811:INFO:952230ab-f6bb-4c84-b39d-273f7bbbd55c.jpg is processing : colors_number=6
+2020-02-11 02:55:28,247:INFO:processing 952230ab-f6bb-4c84-b39d-273f7bbbd55c.jpg is completed : ['#f1f1f1', '#2c2c2c', '#7c7c7c', '#1e1e1e', '#b6b6b6', '#434343']
+2020-02-11 02:56:34,535:INFO:952230ab-f6bb-4c84-b39d-273f7bbbd55c.jpg is processing : colors_number=6
+2020-02-11 02:56:35,294:INFO:processing 952230ab-f6bb-4c84-b39d-273f7bbbd55c.jpg is completed : ['#f1f1f1', '#454545', '#7f7f7f', '#bababa', '#1e1e1e', '#2c2c2c']
+2020-02-11 02:56:48,147:INFO:the file 110288_071_l_WR.jpg has been successfully saved as 380b3943-e1d9-401f-8900-62607f286d97.jpg
+2020-02-11 02:56:48,178:INFO:380b3943-e1d9-401f-8900-62607f286d97.jpg is processing : colors_number=6
+2020-02-11 02:56:49,023:INFO:processing 380b3943-e1d9-401f-8900-62607f286d97.jpg is completed : ['#f1f1f1', '#454545', '#7f7f7f', '#bababa', '#1e1e1e', '#2c2c2c']
+2020-02-11 02:57:23,485:INFO:380b3943-e1d9-401f-8900-62607f286d97.jpg is processing : colors_number=6
+2020-02-11 02:57:24,247:INFO:processing 380b3943-e1d9-401f-8900-62607f286d97.jpg is completed : ['#f1f1f1', '#454545', '#7f7f7f', '#bababa', '#1e1e1e', '#2c2c2c']
+2020-02-11 02:57:30,795:INFO:380b3943-e1d9-401f-8900-62607f286d97.jpg is processing : colors_number=6
+2020-02-11 02:57:32,129:INFO:processing 380b3943-e1d9-401f-8900-62607f286d97.jpg is completed : ['#f1f1f1', '#454545', '#7f7f7f', '#bababa', '#1e1e1e', '#2c2c2c']
+2020-02-11 02:57:38,940:INFO:the file 110288_071_l_WR.jpg has been successfully saved as 3995cd6a-715b-48ff-a024-0d6b190f988b.jpg
+2020-02-11 02:57:38,956:INFO:3995cd6a-715b-48ff-a024-0d6b190f988b.jpg is processing : colors_number=6
+2020-02-11 02:57:39,660:INFO:the file 110288_071_l_WR.jpg has been successfully saved as 2b24f089-c5d4-46d4-b83e-728c38f8dfe0.jpg
+2020-02-11 02:57:39,685:INFO:2b24f089-c5d4-46d4-b83e-728c38f8dfe0.jpg is processing : colors_number=6
+2020-02-11 02:57:39,772:INFO:processing 3995cd6a-715b-48ff-a024-0d6b190f988b.jpg is completed : ['#b6b6b6', '#7c7c7c', '#434343', '#2b2b2b', '#f1f1f1', '#1d1d1d']
+2020-02-11 02:57:40,492:INFO:processing 2b24f089-c5d4-46d4-b83e-728c38f8dfe0.jpg is completed : ['#b6b6b6', '#7c7c7c', '#434343', '#2b2b2b', '#f1f1f1', '#1d1d1d']
+2020-02-11 02:57:43,329:INFO:2b24f089-c5d4-46d4-b83e-728c38f8dfe0.jpg is processing : colors_number=6
+2020-02-11 02:57:44,427:INFO:processing 2b24f089-c5d4-46d4-b83e-728c38f8dfe0.jpg is completed : ['#b6b6b6', '#7c7c7c', '#434343', '#2b2b2b', '#f1f1f1', '#1d1d1d']
+2020-02-11 02:57:51,153:INFO:the file 110288_071_l_WR.jpg has been successfully saved as f0a03a4f-0052-4caf-9df9-19fa90c5973d.jpg
+2020-02-11 02:57:51,181:INFO:f0a03a4f-0052-4caf-9df9-19fa90c5973d.jpg is processing : colors_number=6
+2020-02-11 02:57:52,306:INFO:processing f0a03a4f-0052-4caf-9df9-19fa90c5973d.jpg is completed : ['#b6b6b6', '#7c7c7c', '#434343', '#2b2b2b', '#f1f1f1', '#1d1d1d']
+2020-02-11 02:59:59,233:INFO:f0a03a4f-0052-4caf-9df9-19fa90c5973d.jpg is processing : colors_number=6
+2020-02-11 03:00:00,288:INFO:processing f0a03a4f-0052-4caf-9df9-19fa90c5973d.jpg is completed : ['#f1f1f1', '#2c2c2c', '#7f7f7f', '#444444', '#bababa', '#1e1e1e']
+2020-02-11 03:00:08,492:INFO:the file 110288_071_l_WR.jpg has been successfully saved as f4f229d2-c867-4be2-9853-35afa8941d63.jpg
+2020-02-11 03:00:08,521:INFO:f4f229d2-c867-4be2-9853-35afa8941d63.jpg is processing : colors_number=6
+2020-02-11 03:00:09,317:INFO:processing f4f229d2-c867-4be2-9853-35afa8941d63.jpg is completed : ['#f1f1f1', '#2c2c2c', '#7f7f7f', '#444444', '#bababa', '#1e1e1e']
+2020-02-11 03:00:18,594:INFO:f4f229d2-c867-4be2-9853-35afa8941d63.jpg is processing : colors_number=6
+2020-02-11 03:00:19,402:INFO:processing f4f229d2-c867-4be2-9853-35afa8941d63.jpg is completed : ['#f1f1f1', '#2c2c2c', '#7f7f7f', '#444444', '#bababa', '#1e1e1e']
+2020-02-11 03:00:24,082:INFO:the file 110288_071_l_WR.jpg has been successfully saved as 95a97941-85f0-42a2-b525-078dbb67ab7d.jpg
+2020-02-11 03:00:24,103:INFO:95a97941-85f0-42a2-b525-078dbb67ab7d.jpg is processing : colors_number=6
+2020-02-11 03:00:24,880:INFO:processing 95a97941-85f0-42a2-b525-078dbb67ab7d.jpg is completed : ['#f1f1f1', '#2c2c2c', '#7f7f7f', '#444444', '#bababa', '#1e1e1e']
+2020-02-11 03:01:39,554:INFO:95a97941-85f0-42a2-b525-078dbb67ab7d.jpg is processing : colors_number=6
+2020-02-11 03:01:40,342:INFO:processing 95a97941-85f0-42a2-b525-078dbb67ab7d.jpg is completed : ['#f1f1f1', '#7c7c7c', '#1e1e1e', '#434343', '#b6b6b6', '#2c2c2c']
+2020-02-11 03:01:49,418:INFO:the file g29532 (1).png has been successfully saved as 22b1b585-9291-441d-af85-6809ae5dacf1.png
+2020-02-11 03:01:49,435:INFO:22b1b585-9291-441d-af85-6809ae5dacf1.png is processing : colors_number=6
+2020-02-11 03:01:50,342:INFO:processing 22b1b585-9291-441d-af85-6809ae5dacf1.png is completed : ['#faa349', '#1e29fd', '#fdfdff', '#050733', '#946998', '#a7abff']
+2020-02-11 03:02:28,215:INFO:22b1b585-9291-441d-af85-6809ae5dacf1.png is processing : colors_number=6
+2020-02-11 03:02:29,131:INFO:processing 22b1b585-9291-441d-af85-6809ae5dacf1.png is completed : ['#faa349', '#1e29fd', '#fdfdff', '#050733', '#946998', '#a7abff']
+2020-02-11 03:02:33,084:INFO:the file 110288_071_l_WR.jpg has been successfully saved as fd741428-870e-4a30-801a-193a259279da.jpg
+2020-02-11 03:02:33,115:INFO:fd741428-870e-4a30-801a-193a259279da.jpg is processing : colors_number=6
+2020-02-11 03:02:34,454:INFO:processing fd741428-870e-4a30-801a-193a259279da.jpg is completed : ['#f1f1f1', '#7c7c7c', '#1e1e1e', '#434343', '#b6b6b6', '#2c2c2c']
+2020-02-11 03:03:02,798:INFO:fd741428-870e-4a30-801a-193a259279da.jpg is processing : colors_number=6
+2020-02-11 03:03:04,153:INFO:processing fd741428-870e-4a30-801a-193a259279da.jpg is completed : ['#f1f1f1', '#2d2d2d', '#7d7d7d', '#1f1f1f', '#b6b6b6', '#444444']
+2020-02-11 03:03:15,392:INFO:the file 110288_071_l_WR.jpg has been successfully saved as 44933dd9-2bf0-49c1-a073-4948c770463e.jpg
+2020-02-11 03:03:15,439:INFO:44933dd9-2bf0-49c1-a073-4948c770463e.jpg is processing : colors_number=6
+2020-02-11 03:03:16,245:INFO:processing 44933dd9-2bf0-49c1-a073-4948c770463e.jpg is completed : ['#f1f1f1', '#2d2d2d', '#7d7d7d', '#1f1f1f', '#b6b6b6', '#444444']
+2020-02-11 03:03:55,148:INFO:44933dd9-2bf0-49c1-a073-4948c770463e.jpg is processing : colors_number=6
+2020-02-11 03:03:55,989:INFO:processing 44933dd9-2bf0-49c1-a073-4948c770463e.jpg is completed : ['#f1f1f1', '#2d2d2d', '#7d7d7d', '#1f1f1f', '#b6b6b6', '#444444']
+2020-02-11 03:04:06,104:INFO:the file 110288_071_l_WR.jpg has been successfully saved as 1885108b-c0fc-415e-80ec-9003bb0ad4d1.jpg
+2020-02-11 03:04:06,115:INFO:1885108b-c0fc-415e-80ec-9003bb0ad4d1.jpg is processing : colors_number=6
+2020-02-11 03:04:06,889:INFO:processing 1885108b-c0fc-415e-80ec-9003bb0ad4d1.jpg is completed : ['#f1f1f1', '#2d2d2d', '#7d7d7d', '#1f1f1f', '#b6b6b6', '#444444']
+2020-02-11 03:05:46,546:INFO:1885108b-c0fc-415e-80ec-9003bb0ad4d1.jpg is processing : colors_number=6
+2020-02-11 03:05:47,916:INFO:processing 1885108b-c0fc-415e-80ec-9003bb0ad4d1.jpg is completed : ['#f1f1f1', '#7c7c7c', '#1e1e1e', '#2c2c2c', '#b6b6b6', '#444444']
+2020-02-11 03:05:49,926:INFO:1885108b-c0fc-415e-80ec-9003bb0ad4d1.jpg is processing : colors_number=6
+2020-02-11 03:05:51,287:INFO:processing 1885108b-c0fc-415e-80ec-9003bb0ad4d1.jpg is completed : ['#f1f1f1', '#7c7c7c', '#1e1e1e', '#2c2c2c', '#b6b6b6', '#444444']
+2020-02-11 03:05:59,085:INFO:the file 110288_071_l_WR.jpg has been successfully saved as 824c709a-18c4-4b5a-887f-5543684fb85d.jpg
+2020-02-11 03:05:59,137:INFO:824c709a-18c4-4b5a-887f-5543684fb85d.jpg is processing : colors_number=6
+2020-02-11 03:06:00,013:INFO:processing 824c709a-18c4-4b5a-887f-5543684fb85d.jpg is completed : ['#f1f1f1', '#7c7c7c', '#1e1e1e', '#2c2c2c', '#b6b6b6', '#444444']
+2020-02-11 03:06:59,467:INFO:824c709a-18c4-4b5a-887f-5543684fb85d.jpg is processing : colors_number=6
+2020-02-11 03:07:00,118:INFO:processing 824c709a-18c4-4b5a-887f-5543684fb85d.jpg is completed : ['#f1f1f1', '#7c7c7c', '#1e1e1e', '#2c2c2c', '#b6b6b6', '#444444']
+2020-02-11 03:07:05,091:INFO:the file 110288_071_l_WR.jpg has been successfully saved as ec3f7e19-ee93-4831-9846-9a8bce20d171.jpg
+2020-02-11 03:07:05,108:INFO:ec3f7e19-ee93-4831-9846-9a8bce20d171.jpg is processing : colors_number=6
+2020-02-11 03:07:05,997:INFO:processing ec3f7e19-ee93-4831-9846-9a8bce20d171.jpg is completed : ['#f1f1f1', '#444444', '#7c7c7c', '#1e1e1e', '#b6b6b6', '#2c2c2c']
+2020-02-11 03:07:16,180:INFO:the file 110288_071_l_WR.jpg has been successfully saved as 6a102f96-9fc7-4d6b-9715-aec9c9d60e55.jpg
+2020-02-11 03:07:16,189:INFO:6a102f96-9fc7-4d6b-9715-aec9c9d60e55.jpg is processing : colors_number=6
+2020-02-11 03:07:17,047:INFO:processing 6a102f96-9fc7-4d6b-9715-aec9c9d60e55.jpg is completed : ['#f1f1f1', '#444444', '#7c7c7c', '#1e1e1e', '#b6b6b6', '#2c2c2c']
+2020-02-11 03:26:12,293:INFO:the file test.txt has been successfully saved as 71ed785c-0165-4ed6-9b08-a65ad60fdf52.txt
+2020-02-11 03:28:12,266:INFO:the file test.txt has been successfully saved as 89056148-e30d-4aba-9635-6479b812cb50.txt
+2020-02-11 03:33:13,874:ERROR:the file 110288_071_l_WR.jpg has wrong extention
+2020-02-11 03:33:46,596:INFO:the file test.txt has been successfully saved as ff077e3d-05c9-41ef-b6c9-30849703ab3a.txt
+2020-02-11 04:14:59,819:ERROR:the file 110288_071_l_WR.jpg has wrong extention
+2020-02-11 04:16:59,095:ERROR:the file 110288_071_l_WR.jpg has wrong extention
+2020-02-11 04:17:03,291:ERROR:the file 110288_071_l_WR.jpg has wrong extention
+2020-02-11 04:17:12,514:INFO:the file test.txt has been successfully saved as 26b556d2-ee3a-48d1-a3f6-44415abc311a.txt
+2020-02-11 04:18:04,795:INFO:the file test.txt has been successfully saved as 65410413-bc0c-40c8-8cff-172bbccbd762.txt
+2020-02-11 04:22:25,640:INFO:the file test.txt has been successfully saved as ec0e2f61-3ddc-40d3-be6e-d7a0582b74c8.txt
+2020-02-11 04:23:33,376:INFO:the file test.txt has been successfully saved as 1217d931-e34c-4f9f-b9ab-853f820e6753.txt
+2020-02-11 04:25:11,227:INFO:the file test.txt has been successfully saved as 6012d682-1ec8-42fc-9637-59182152737b.txt
+2020-02-11 04:26:30,930:INFO:the file test.txt has been successfully saved as 02b662a8-8892-46eb-92a0-0c95a481c947.txt
+2020-02-11 04:27:49,940:INFO:the file test.txt has been successfully saved as 669c211a-59e2-4011-9a09-d7ebe3493efa.txt
+2020-02-11 04:30:52,836:INFO:the file 669c211a-59e2-4011-9a09-d7ebe3493efa.txt is read  as 
+
+
+this os a 
+
+2020-02-11 04:31:45,087:INFO:the file 669c211a-59e2-4011-9a09-d7ebe3493efa.txt is read  as 
+
+
+this os a 
+
+2020-02-11 04:31:55,807:INFO:the file test.txt has been successfully saved as 5bbcba2e-1d49-4e20-8c29-23ec11b721cb.txt
+2020-02-11 04:31:58,235:INFO:the file 5bbcba2e-1d49-4e20-8c29-23ec11b721cb.txt is read  as 
+
+
+I Love natural language processing
+
